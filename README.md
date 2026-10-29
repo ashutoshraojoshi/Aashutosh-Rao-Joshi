@@ -12,7 +12,7 @@ I am an **AI Solutions Architect** specializing in bridging **Artificial Intelli
 - 🏗️ **Current Focus:** Enterprise AI Architecture, LLM Workflows & MLOps Pipelines
 - ⚡ **Specialties:** Intelligent Process Automation, System Integration & Scalable Engineering
 - 📍 **Location:** Mumbai Metropolitan Region
-- 💼 **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+- 💼 **LinkedIn:** [linkedin.com/in/ashutosh-joshi](https://www.linkedin.com/in/aashutosh-joshi-a43b0424a?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
 ---
 
@@ -22,15 +22,6 @@ I am an **AI Solutions Architect** specializing in bridging **Artificial Intelli
 - **Automation & Orchestration:** Airflow, n8n, Zapier, Docker, Kubernetes, CI/CD
 - **Cloud & Databases:** AWS, Azure, GCP, PostgreSQL, Vector Databases (Pinecone, Qdrant)
 - **Architecture & Design:** System Design, API Integration, MLOps, Process Mapping
-
----
-
-## 📌 Featured Projects
-
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **Enterprise AI Workflow Engine** | Automated data ingestion and LLM summarization pipeline. | Python, LangChain, FastAPI |
-| **Intelligent Process Automator** | End-to-end document extraction and workflow automation agent. | Docker, Vector DB, Python |
 
 ---
 
