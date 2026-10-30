@@ -1,4 +1,4 @@
-# Hi there, I'm Aashutosh Joshi 👋
+# Hi there, I'm Ashutosh Rao Joshi 👋
 ### AI Solutions Architect | Intelligent Automation & MLOps Specialist
 
 Architecting process-driven, scalable AI solutions and automated workflows for enterprise performance.
